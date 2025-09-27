@@ -4,5 +4,6 @@ void main()
 {
 
  printf("first pro using git");
+ printf("Hello world");
 
 }
